@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="C:\Android\Library\android-education-project\ArcMenuSample1\arcMenuSample\build\intermediates\exploded-aar\ArcMenuSample1\arcMenuLibrary\unspecified\assets"/></dataSet><dataSet config="main"><source path="C:\Android\Library\android-education-project\ArcMenuSample1\arcMenuSample\src\main\assets"/></dataSet><dataSet config="debug"><source path="C:\Android\Library\android-education-project\ArcMenuSample1\arcMenuSample\src\debug\assets"/></dataSet></merger>
